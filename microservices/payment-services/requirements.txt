@@ -1,0 +1,5 @@
+axios
+dotenv
+express
+mongoose
+nodemon
